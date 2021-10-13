@@ -1,2 +1,2 @@
 # LineBot
-Reply message ang save image by Flask Python
+Reply message ang save image by Flasks in Python
